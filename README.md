@@ -1,7 +1,7 @@
-# 🚀 Project Name
+# 🚀 AI-Powered-Credit-Risk-Prediction-Platform-using-explainable-Machine-Learning-Model
 
 ## 📌 Overview
-A brief description of your project. Explain what it does, why it exists, and what problem it solves.
+A integrated model that helps companies and banks to analyze their main understanding on which perticular individual is best suited for the credit and how much risk is involved in providing him/her the loan. The model gives deep detailes on factors that are responsible for further detailing on loan factor. 
 
 ---
 
